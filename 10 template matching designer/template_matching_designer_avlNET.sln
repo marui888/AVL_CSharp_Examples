@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "template_matching_designer_avlNET", "template_matching_designer\template_matching_designer_avlNET.csproj", "{D8983C89-B90E-42CB-A51F-A8B07A1AAEF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8983C89-B90E-42CB-A51F-A8B07A1AAEF6}.Debug|x64.ActiveCfg = Debug|x64
+		{D8983C89-B90E-42CB-A51F-A8B07A1AAEF6}.Debug|x64.Build.0 = Debug|x64
+		{D8983C89-B90E-42CB-A51F-A8B07A1AAEF6}.Debug|x86.ActiveCfg = Debug|x86
+		{D8983C89-B90E-42CB-A51F-A8B07A1AAEF6}.Debug|x86.Build.0 = Debug|x86
+		{D8983C89-B90E-42CB-A51F-A8B07A1AAEF6}.Release|x64.ActiveCfg = Release|x64
+		{D8983C89-B90E-42CB-A51F-A8B07A1AAEF6}.Release|x64.Build.0 = Release|x64
+		{D8983C89-B90E-42CB-A51F-A8B07A1AAEF6}.Release|x86.ActiveCfg = Release|x86
+		{D8983C89-B90E-42CB-A51F-A8B07A1AAEF6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6145B62B-22DC-4BB2-AF8F-74F6C5C2524A}
+	EndGlobalSection
+EndGlobal
