@@ -22,6 +22,7 @@ namespace BasicImageOperations_avlNET
         /// </summary>
         //private const string ImagePath = @"..\..\..\..\..\_media\face.png";
         private const string ImagePath = @"..\..\..\..\..\..\_media\face.png";
+        private const string ImagePath2 = @"..\..\..\..\..\..\_media\face.png";
 
 
         /// <summary>
